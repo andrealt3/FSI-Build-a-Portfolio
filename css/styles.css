@@ -1,4 +1,14 @@
 
 body { 
-    background-color: purple;
+    background-color: teal
 }
+div {
+    line-height: 10px;
+    background: darkslateblue;
+    border-style: inset;
+}
+
+h1, h2 {
+    color: aliceblue;
+}
+
